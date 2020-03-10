@@ -1,0 +1,15 @@
+2012-01-01	09:01	Spokane	Garden	3.85	Amex
+2012-01-01	09:01	Spokane	Computers	287.65	MasterCard
+2012-01-01	09:01	Fresno	CDs	466.64	MasterCard
+2012-01-01	09:01	Omaha	Baby	255.68	MasterCard
+2012-01-01	09:01	Anchorage	DVDs	6.38	Amex
+2012-01-01	09:01	Aurora	Consumer Electronics	117.81	MasterCard
+2012-01-01	09:01	Philadelphia	DVDs	351.31	Cash
+2012-01-01	09:01	Fremont	Baby	222.61	Cash
+2012-01-01	09:01	Anchorage	Crafts	22.36	Amex
+2012-01-01	09:02	Norfolk	Women's Clothing	189.01	Amex
+2012-01-01	09:02	Chandler	Books	414.08	Cash
+2012-01-01	09:02	Minneapolis	Computers	182.05	Visa
+2012-01-01	09:02	Honolulu	Cameras	345.18	Discover
+2012-01-01	09:02	Indianapolis	Books	135.96	Discover
+2012-01-01	09:02	Chandler	Books	344.09	Discover
