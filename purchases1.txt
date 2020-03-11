@@ -1,15 +1,12 @@
-2012-01-01	09:01	Spokane	Garden	3.85	Amex
-2012-01-01	09:01	Spokane	Computers	287.65	MasterCard
-2012-01-01	09:01	Fresno	CDs	466.64	MasterCard
-2012-01-01	09:01	Omaha	Baby	255.68	MasterCard
-2012-01-01	09:01	Anchorage	DVDs	6.38	Amex
-2012-01-01	09:01	Aurora	Consumer Electronics	117.81	MasterCard
-2012-01-01	09:01	Philadelphia	DVDs	351.31	Cash
-2012-01-01	09:01	Fremont	Baby	222.61	Cash
-2012-01-01	09:01	Anchorage	Crafts	22.36	Amex
-2012-01-01	09:02	Norfolk	Women's Clothing	189.01	Amex
-2012-01-01	09:02	Chandler	Books	414.08	Cash
-2012-01-01	09:02	Minneapolis	Computers	182.05	Visa
-2012-01-01	09:02	Honolulu	Cameras	345.18	Discover
-2012-01-01	09:02	Indianapolis	Books	135.96	Discover
-2012-01-01	09:02	Chandler	Books	344.09	Discover
+10.223.157.186 - - [15/Jul/2009:14:58:59 -0700] "GET / HTTP/1.1" 403 202
+10.223.157.186 - - [15/Jul/2009:14:58:59 -0700] "GET /favicon.ico HTTP/1.1" 404 209
+10.223.157.186 - - [15/Jul/2009:15:50:35 -0700] "GET / HTTP/1.1" 200 9157
+10.223.157.186 - - [15/Jul/2009:15:50:35 -0700] "GET /assets/js/lowpro.js HTTP/1.1" 200 10469
+10.223.157.186 - - [15/Jul/2009:15:50:35 -0700] "GET /assets/css/reset.css HTTP/1.1" 200 1014
+10.223.157.186 - - [15/Jul/2009:15:50:35 -0700] "GET /assets/css/960.css HTTP/1.1" 200 6206
+10.223.157.186 - - [15/Jul/2009:15:50:35 -0700] "GET /assets/css/the-associates.css HTTP/1.1" 200 15779
+10.223.157.186 - - [15/Jul/2009:15:50:35 -0700] "GET /assets/js/the-associates.js HTTP/1.1" 200 4492
+10.223.157.186 - - [15/Jul/2009:15:50:35 -0700] "GET /assets/js/lightbox.js HTTP/1.1" 200 25960
+10.223.157.186 - - [15/Jul/2009:15:50:36 -0700] "GET /assets/img/search-button.gif HTTP/1.1" 200 168
+10.223.157.186 - - [15/Jul/2009:15:50:35 -0700] "GET /assets/js/the-associates.js HTTP/1.1" 200 4492
+10.223.157.186 - - [15/Jul/2009:15:50:35 -0700] "GET /assets/js/the-associates.js HTTP/1.1" 200 4492
