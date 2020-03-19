@@ -6,10 +6,12 @@ for line in csv_reader:
     # print(line)
     if len(line) == 19:
         body = line[4].replace("<br>", "")
-        res = body.replace("\n", " ")
+        res = body.strip().replace("\n", " ")
+        # res1 = body.replace("\n", " ")
+        # last_res = res1.replace("")
         if line[0].isdigit():
             id_b = line[0]
-            print("{0}    {1}".format(id_b, body))
+            print("{0}    {1}".format(id_b, res))
         else:
             continue
 

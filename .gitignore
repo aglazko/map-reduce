@@ -127,7 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-purchases.txt
+lesson6/purchases.txt
 testfile
-access_log
+lesson6/access_log
 ../testfile
+test_forum_node.tsv
+test_forum_user.tsv
+student_test_posts.csv
+forum_node.tsv
+forum_users.tsv
+.DS_Store
+purchases1.txt
+.idea/
